@@ -10,7 +10,7 @@ The project uses data from Swiggy's food delivery platform to analyze key metric
 
 # Data Sources
 
-The data used in this project is obtained from Swiggy's public data sets, which includes data related to orders, customers, and restaurants. The data is pre-processed and cleaned to remove any duplicates, missing values, or irrelevant information.
+The data used in this project is obtained from Swiggy's website requested paged by performing web-scarpping, which includes data related to orders, customers, and restaurants. The data is pre-processed and cleaned to remove any duplicates, missing values, or irrelevant information.
 
 # Project Outputs
 
